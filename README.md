@@ -63,11 +63,11 @@ endmodule
 ```
 
 
-**RTL realization**
+**RTL Schematics:**
 ![exp2 output2](https://github.com/CynthiaMehul/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319444/98726316-20d4-4fe7-a4d0-e3d800d01364)
 
 
-**Timing Diagram**
+**Waveform:**
 ![exp2 output1](https://github.com/CynthiaMehul/BOOLEAN_FUNCTION_MINIMIZATION/assets/150319444/55dcbe44-2e93-425d-8b66-2db6d89364eb)
 
 **Result:**
